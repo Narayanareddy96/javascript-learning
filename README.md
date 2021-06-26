@@ -1,2 +1,2 @@
 # javascript-learning
-This repository I am using to practice my advanced concepts learning 
+I am using this repository to practice my advanced concepts and learning in javascript langue 
