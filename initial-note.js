@@ -1,0 +1,1 @@
+// this is running notes to track my leaning on advanced concepts
